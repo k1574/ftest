@@ -1,0 +1,3 @@
+Tests files for stats, filters them.
+By standard file names are read from stdin.
+Based on "stest" made by guys from Suckless.

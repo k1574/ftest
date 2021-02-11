@@ -1,0 +1,3 @@
+<$HOME/app/mk/inc/config
+PROGNAME = ftest
+CFILES = main.c
